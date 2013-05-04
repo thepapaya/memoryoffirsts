@@ -1,0 +1,16 @@
+*********
+** PCs **
+*********
+In order to run the visualization on a PC, simply nagivate to application.windows32 and run CS279_FP.exe
+
+**********
+** MACs **
+**********
+In order to run the visualization on a MAC, navigate to application.macosx and open the Terminal to the directory and type the following:
+
+chmod +x CS279_FP.app/Contents/MacOS/JavaApplicationStub
+
+****************
+** Processing **
+****************
+To run natively through processing, download processing from processing.org and open up CS279_FP.pde from Processing and press Run.
